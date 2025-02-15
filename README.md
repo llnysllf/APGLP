@@ -1,4 +1,4 @@
-# APGLP
+## APGLP
 
 ## build_sample.ipynb
 Uses Gurobi to build graph samples from `.g6` files located in the `graphs_g6` folder. The resulting CSV files, stored in the `apgs` folder, include each graph's adjacency list, `a` and `d` values, computed edge labels, and Gurobi runtime for graphs of various sizes.
