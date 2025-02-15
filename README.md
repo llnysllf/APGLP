@@ -1,4 +1,3 @@
-```markdown
 # APGLP
 
 ## build_sample.ipynb
