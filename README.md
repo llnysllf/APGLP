@@ -9,13 +9,13 @@ This project solves the **APGLP problem** and its **fixed version** using:
 ## Requirements
 - **Gurobi License**: Required to run any Gurobi-based solutions.
 - **D-Wave API Token**: Required to access D-Wave quantum solvers.
-- **D-Wave Ocean SDK**: Needed for interacting with D-Wave systems.
+- **D-Wave Ocean SDK**: Required for interacting with D-Wave systems.
 
 > Geting start with Gurobi : https://support.gurobi.com/hc/en-us/articles/14799677517585-Getting-Started-with-Gurobi-Optimizer
 > 
 > Install Gurobi for Python: https://support.gurobi.com/hc/en-us/articles/360044290292-How-do-I-install-Gurobi-for-Python
 > 
-> Install D-Wave's Ocean tools following [D-Wave's Installation Guide](https://docs.ocean.dwavesys.com/en/stable/overview/install.html).
+> Install D-Wave's Ocean tools following [D-Wave's Installation Guide]([https://docs.dwavequantum.com/en/latest/ocean/install.html]).
 
 ---
 
