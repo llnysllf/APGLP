@@ -15,7 +15,7 @@ This project solves the **APGLP problem** and its **fixed version** using:
 > 
 > Install Gurobi for Python: https://support.gurobi.com/hc/en-us/articles/360044290292-How-do-I-install-Gurobi-for-Python
 > 
-> Install D-Wave's Ocean tools following [D-Wave's Installation Guide]([https://docs.dwavequantum.com/en/latest/ocean/install.html]).
+> Install D-Wave's Ocean tools following [D-Wave's Installation Guide](https://docs.dwavequantum.com/en/latest/ocean/install.html).
 
 ---
 
