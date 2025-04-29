@@ -1,4 +1,4 @@
-# APGLP Solving with Gurobi and D-Wave
+## APGLP Solving with Gurobi and D-Wave
 
 This project solves the **APGLP problem** and its **fixed version** using:
 - **Gurobi Optimizer** (MIP approach)
@@ -6,7 +6,7 @@ This project solves the **APGLP problem** and its **fixed version** using:
 - **D-Wave Hybrid Solver** (quantum-classical hybrid approach)
 ---
 
-## Requirements
+### Requirements
 - **Gurobi License**: Required to run any Gurobi-based solutions.
 - **D-Wave API Token**: Required to access D-Wave quantum solvers.
 - **D-Wave Ocean SDK**: Required for interacting with D-Wave systems.
@@ -19,7 +19,7 @@ This project solves the **APGLP problem** and its **fixed version** using:
 
 ---
 
-## Data and Results
+### Data and Results
 
 ```
 Advantage1_Pegasus/            # Results from Advantage_system_6.3 (Pegasus topology)
@@ -34,6 +34,6 @@ qubos/                         # Generated QUBOs with formulation time
 
 ---
 
-## Notes
+### Notes
 - Each experiment is organized into **fixed** and **unconstrained** depending on the problem formulation.
 
